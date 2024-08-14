@@ -37,4 +37,4 @@ ImageNet with the following folder structure, you can extract imagenet by this [
 > Please download caformer_b36_in21_ft1k.pth first following [PoolFormer](https://github.com/sail-sg/poolformer).
 
 execute: \
-  `bash main.sh`
+  `bash train_finetunetrain_finetunetrain_finetune.sh`
