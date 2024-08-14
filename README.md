@@ -15,7 +15,7 @@ For CIFAR10-DVS dataset, please refer the Google Drive link below:
 Training set: [1](https://drive.google.com/file/d/1pzYnhoUvtcQtxk_Qmy4d2VrhWhy5R-t9/view?usp=sharing)
 Test set: [2](https://drive.google.com/file/d/1q1k6JJgVH3ZkHWMg2zPtrZak9jRP6ggG/view?usp=sharing)
 
-# Cofe for LiteSNN
+# Cofe for TPL
 We provide the code for CIFAR10/100/DVS-CIFAR10.
 
 ## Train
