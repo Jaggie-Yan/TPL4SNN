@@ -1,5 +1,5 @@
-# NIPS2024 Submission #8992: Temporal Progressive Learinig for Spiking Neural Networks
-This code is the PyTorch implementation code for [Temporal Progressive Learinig for Spiking Neural Networks].
+# NIPS2024 Submission #8992: Temporal Progressive Learning for Spiking Neural Networks
+This code is the PyTorch implementation code for [Temporal Progressive Learning for Spiking Neural Networks].
 
 ## Prerequisites
 The Following Setup is tested and it is working:
