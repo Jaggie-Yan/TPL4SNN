@@ -8,7 +8,7 @@ The Following Setup is tested and it is working:
  * Cuda>=10.2
 
  # Dataset Preparation for CIFAR10/100 and ImageNet
-To proceed, please download the CIFAR10/100 and ImageNet datasets on your own.
+To proceed, please download the CIFAR10, CIFAR100 and ImageNet datasets on your own.
 
 # Dataset Preparation for DVS-CIFAR10
 For CIFAR10-DVS dataset, please refer the Google Drive link below:
